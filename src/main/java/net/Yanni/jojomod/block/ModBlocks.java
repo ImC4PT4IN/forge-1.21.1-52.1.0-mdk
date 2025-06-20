@@ -35,10 +35,10 @@ public class ModBlocks {
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
-        registerBlock(name, toReturn);
+        registerBlockItem(name, toReturn);
         return toReturn;
-
     }
+
 
     private static <T extends Block> void registerBlockItem(String name, RegistryObject<T> block){
         ModItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
