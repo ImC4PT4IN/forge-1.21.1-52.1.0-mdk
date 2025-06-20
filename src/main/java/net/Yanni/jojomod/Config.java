@@ -14,13 +14,13 @@ import java.util.stream.Collectors;
 
 // An example config class. This is not required, but it's a good idea to have one to keep your config organized.
 // Demonstrates how to use Forge's config APIs
-@Mod.EventBusSubscriber(modid = jojomod.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
+@Mod.EventBusSubscriber(modid = JojoMod.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class Config
 {
     private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
 
     private static final ForgeConfigSpec.BooleanValue LOG_DIRT_BLOCK = BUILDER
-            .comment("Whether to log the dirt block on common setup")
+            .comment("Whether to log the dirt blocks on common setup")
             .define("logDirtBlock", true);
 
     private static final ForgeConfigSpec.IntValue MAGIC_NUMBER = BUILDER

@@ -17,7 +17,7 @@ versionRange="[52,)"
 ordering="NONE"
 side="BOTH"
 
-[[dependencies.jojomod]]
+[[dependencies.JojoMod]]
 modId="minecraft"
 mandatory=true
 versionRange="[1.21.1,1.22)"
