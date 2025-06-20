@@ -1,9 +1,12 @@
 {
   "item.jojomod.star_platinum": "Star Platinum",
   "item.jojomod.meteorite_shard": "Meteorite Shard",
-  "item.jojomod.shiny_meteorite_shard": "Shiny Meteorite Shard"
-
-
-
-
+  "item.jojomod.shiny_meteorite_shard": "Shiny Meteorite Shard",
+  "creativetab.jojomod.meteorite_items" : "Jojo Items",
+  "creativetab.jojomod.meteorite_blocks" : "Jojo Blocks",
+  "creativetab.jojomod.jojo_stands" : "Jojo Stands",
+  "block.jojomod.meteorite_ore": "Meteorite Ore",
+  "item.jojomod.meteorite_Block": "Meteorite Block",
+  "key.category.jojomod.jojo": "A Jojo Mod",
+  "key.jojomod.summon_stand": "Summon Stand"
 }
