@@ -1,15 +1,32 @@
-[20juin2025 18:09:05.410] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
-[20juin2025 18:09:05.413] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.7+6-LTS
-[20juin2025 18:09:05.414] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
-[20juin2025 18:09:05.511] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
-[20juin2025 18:09:05.602] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Yanni/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
-[20juin2025 18:09:06.403] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[20juin2025 18:09:07.031] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
-[20juin2025 18:09:11.210] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
-[20juin2025 18:09:11.210] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
-[20juin2025 18:09:11.230] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[20juin2025 18:09:11.432] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [jojomod]
-[20juin2025 18:09:11.488] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Yanni/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
-[20juin2025 18:09:11.488] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Yanni/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
-[20juin2025 18:09:11.578] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 0 ms
-[20juin2025 18:09:11.580] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 0, old count: 0, new count: 1, removed stale: 0, written: 0
+[20juin2025 19:41:35.476] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
+[20juin2025 19:41:35.480] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[20juin2025 19:41:35.480] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[20juin2025 19:41:35.579] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[20juin2025 19:41:35.667] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Yanni/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[20juin2025 19:41:36.425] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20juin2025 19:41:37.073] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
+[20juin2025 19:41:41.411] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
+[20juin2025 19:41:41.411] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
+[20juin2025 19:41:41.415] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: jojomod, class net.Yanni.jojomod.JojoMod
+java.lang.ExceptionInInitializerError: null
+	at TRANSFORMER/jojomod@0.1-1.21.1/net.Yanni.jojomod.JojoMod.<init>(JojoMod.java:43) ~[main/:?]
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at LAYER PLUGIN/net.minecraftforge.javafmlmod@1.21.1-52.1.0/net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:145) ~[javafmllanguage-1.21.1-52.1.0.jar!/:52.1.0]
+	at LAYER PLUGIN/net.minecraftforge.fmlcore@1.21.1-52.1.0/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:125) ~[fmlcore-1.21.1-52.1.0.jar!/:1.0]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.lang.IllegalArgumentException: Duplicate registration meteorite_ore
+	at TRANSFORMER/net.minecraftforge.forge@52.1.0/net.minecraftforge.registries.DeferredRegister.register(DeferredRegister.java:199) ~[forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar:?]
+	at TRANSFORMER/jojomod@0.1-1.21.1/net.Yanni.jojomod.block.ModBlocks.registerBlock(ModBlocks.java:37) ~[main/:?]
+	at TRANSFORMER/jojomod@0.1-1.21.1/net.Yanni.jojomod.block.ModBlocks.registerBlock(ModBlocks.java:38) ~[main/:?]
+	at TRANSFORMER/jojomod@0.1-1.21.1/net.Yanni.jojomod.block.ModBlocks.<clinit>(ModBlocks.java:24) ~[main/:?]
+	... 13 more
+[20juin2025 19:41:41.436] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[20juin2025 19:41:41.563] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found

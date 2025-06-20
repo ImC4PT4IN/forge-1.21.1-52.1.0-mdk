@@ -11,7 +11,13 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, JojoMod.MOD_ID);
 
-    public static final RegistryObject<Item> STAR_PLATINIUM = ITEMS.register("star_platinium",
+    public static final RegistryObject<Item> STAR_PLATINUM = ITEMS.register("star_platinum",
+            () ->  new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> METEORITE_SHARD = ITEMS.register("meteorite_shard",
+            () ->  new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> SHINY_METEORITE_SHARD = ITEMS.register("shiny_meteorite_shard",
             () ->  new Item(new Item.Properties()));
 
 

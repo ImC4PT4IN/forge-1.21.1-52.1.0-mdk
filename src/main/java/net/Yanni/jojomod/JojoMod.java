@@ -2,6 +2,7 @@ package net.Yanni.jojomod;
 
 import com.mojang.logging.LogUtils;
 import net.Yanni.jojomod.block.ModBlocks;
+import net.Yanni.jojomod.item.ModCreativeModeTabs;
 import net.Yanni.jojomod.item.ModItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -34,6 +35,8 @@ public class JojoMod
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
 
