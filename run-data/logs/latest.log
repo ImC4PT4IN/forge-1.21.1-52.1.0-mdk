@@ -1,27 +1,27 @@
-[20juin2025 23:32:43.241] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
-[20juin2025 23:32:43.244] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.7+6-LTS
-[20juin2025 23:32:43.245] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
-[20juin2025 23:32:43.345] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
-[20juin2025 23:32:43.434] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Yanni/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
-[20juin2025 23:32:44.324] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[20juin2025 23:32:45.057] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
-[20juin2025 23:32:49.554] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
-[20juin2025 23:32:49.554] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
-[20juin2025 23:32:49.577] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[20juin2025 23:32:49.808] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [jojomod]
-[20juin2025 23:32:49.873] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Yanni/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
-[20juin2025 23:32:49.874] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Yanni/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
-[20juin2025 23:32:50.005] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
-[20juin2025 23:32:50.164] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 157 ms
-[20juin2025 23:32:50.164] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
-[20juin2025 23:32:50.183] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 19 ms
-[20juin2025 23:32:50.183] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id jojomod
-[20juin2025 23:32:50.187] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id jojomod finished after 4 ms
-[20juin2025 23:32:50.187] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id jojomod
-[20juin2025 23:32:50.188] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id jojomod finished after 1 ms
-[20juin2025 23:32:50.188] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: jojomod
-[20juin2025 23:32:50.192] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: jojomod finished after 3 ms
-[20juin2025 23:32:50.192] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: jojomod
-[20juin2025 23:32:50.276] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: jojomod finished after 83 ms
-[20juin2025 23:32:50.277] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 271 ms
-[20juin2025 23:32:50.280] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 18, old count: 18, new count: 19, removed stale: 0, written: 0
+[21juin2025 16:26:00.863] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
+[21juin2025 16:26:00.867] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[21juin2025 16:26:00.867] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[21juin2025 16:26:00.956] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[21juin2025 16:26:01.050] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Yanni/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[21juin2025 16:26:01.867] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21juin2025 16:26:02.558] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Yanni\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, jojomod, --all, --output, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\generated\resources, --existing, C:\Users\Yanni\Documents\modding mc\forge-1.21.1-52.1.0-mdk\src\main\resources]
+[21juin2025 16:26:07.341] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 52.1.0, for MC 1.21.1 with MCP 20240808.132146
+[21juin2025 16:26:07.341] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v52.1.0 Initialized
+[21juin2025 16:26:07.364] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[21juin2025 16:26:07.595] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [jojomod]
+[21juin2025 16:26:07.653] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Yanni/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[21juin2025 16:26:07.653] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Yanni/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1/forge-1.21.1-52.1.0_mapped_parchment_2024.11.17-1.21.1-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[21juin2025 16:26:07.750] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[21juin2025 16:26:07.938] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 186 ms
+[21juin2025 16:26:07.938] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[21juin2025 16:26:07.958] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 19 ms
+[21juin2025 16:26:07.958] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id jojomod
+[21juin2025 16:26:07.963] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id jojomod finished after 4 ms
+[21juin2025 16:26:07.963] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id jojomod
+[21juin2025 16:26:07.965] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id jojomod finished after 1 ms
+[21juin2025 16:26:07.965] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: jojomod
+[21juin2025 16:26:07.969] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: jojomod finished after 4 ms
+[21juin2025 16:26:07.969] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: jojomod
+[21juin2025 16:26:08.059] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: jojomod finished after 90 ms
+[21juin2025 16:26:08.060] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 309 ms
+[21juin2025 16:26:08.064] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 18, old count: 18, new count: 19, removed stale: 0, written: 0

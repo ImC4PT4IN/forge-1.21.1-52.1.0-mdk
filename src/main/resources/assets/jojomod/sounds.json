@@ -1,0 +1,39 @@
+{
+  "summon_stand_sound": {
+    "subtitle": "sounds.jojomod.summon_stand_sound",
+    "sounds": [
+      "summon_stand_sound"
+    ]
+  },
+
+  "meteorite_ore_break": {
+    "subtitle": "sounds.jojomod.meteorite_ore_break",
+    "sounds": [
+      "meteorite_ore_break"
+    ]
+  },
+  "meteorite_ore_fall": {
+    "subtitle": "sounds.jojomod.meteorite_ore_fall",
+    "sounds": [
+      "meteorite_ore_fall"
+    ]
+  },
+  "meteorite_ore_hit": {
+    "subtitle": "sounds.jojomod.meteorite_ore_hit",
+    "sounds": [
+      "meteorite_ore_hit"
+    ]
+  },
+  "meteorite_ore_place": {
+    "subtitle": "sounds.jojomod.meteorite_ore_place",
+    "sounds": [
+      "meteorite_ore_place"
+    ]
+  },
+  "meteorite_ore_step": {
+    "subtitle": "sounds.jojomod.meteorite_ore_step",
+    "sounds": [
+      "meteorite_ore_step"
+    ]
+  }
+}

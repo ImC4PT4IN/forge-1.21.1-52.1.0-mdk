@@ -6,7 +6,7 @@
   "creativetab.jojomod.meteorite_blocks" : "Jojo Blocks",
   "creativetab.jojomod.jojo_stands" : "Jojo Stands",
   "block.jojomod.meteorite_ore": "Meteorite Ore",
-  "item.jojomod.meteorite_Block": "Meteorite Block",
+  "block.jojomod.meteorite_block": "Meteorite Block",
   "key.category.jojomod.jojo": "A Jojo Mod",
   "key.jojomod.summon_stand": "Summon Stand"
 }

@@ -4,6 +4,7 @@ import com.mojang.logging.LogUtils;
 import net.Yanni.jojomod.block.ModBlocks;
 import net.Yanni.jojomod.item.ModCreativeModeTabs;
 import net.Yanni.jojomod.item.ModItems;
+import net.Yanni.jojomod.sound.ModSounds;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -41,6 +42,7 @@ public class JojoMod
         ModItems.register(modEventBus);
 
         ModBlocks.register(modEventBus);
+        ModSounds.register(modEventBus);
 
         modEventBus.addListener(this::addCreative);
 

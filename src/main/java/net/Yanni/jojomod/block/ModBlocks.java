@@ -2,6 +2,7 @@ package net.Yanni.jojomod.block;
 
 import net.Yanni.jojomod.JojoMod;
 import net.Yanni.jojomod.item.ModItems;
+import net.Yanni.jojomod.sound.ModSounds;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -23,7 +24,7 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> METEORITE_ORE = registerBlock("meteorite_ore",
             () -> new DropExperienceBlock(UniformInt.of(2,4), BlockBehaviour.Properties.of()
-                    .strength(4f).requiresCorrectToolForDrops()));
+                    .strength(4f).requiresCorrectToolForDrops().sound(ModSounds.METEORITE_ORE_SOUNDS)));
 
     public static final RegistryObject<Block> METEORITE_BLOCK = registerBlock("meteorite_block",
             () -> new Block(BlockBehaviour.Properties.of()
